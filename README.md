@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
