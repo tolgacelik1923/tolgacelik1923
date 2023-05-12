@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 - 👋 Hi, I’m @tolgacelik1923
 - 👀 I’m interested in Data Science, Machine Learning and AI  
 - 🌱 I’m currently learning Machine Learning and Deep Learning
