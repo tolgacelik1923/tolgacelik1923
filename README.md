@@ -12,13 +12,6 @@
 tolgacelik1923/tolgacelik1923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<p align="center">
-  <img src="![image](https://github.com/tolgacelik1923/tolgacelik1923/assets/95141033/954cef0c-812e-485c-8037-94e5c18d455c)"/>
-</p>
-
-
-
-<p align="center">
-  <img src="![image](https://github.com/tolgacelik1923/tolgacelik1923/assets/95141033/5326c7c1-d572-486c-a0f3-63b438867125)"/>
-</p>
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
